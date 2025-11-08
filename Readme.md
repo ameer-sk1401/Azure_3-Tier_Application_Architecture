@@ -608,15 +608,6 @@ Feel free to use this as a reference for your own learning!
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- Learning Azure step-by-step
-- Currently focused on: Networking, Security, and Architecture
-- Previous projects: Azure Entra ID, RBAC, VNet implementations
-
----
 
 ## 🙏 Acknowledgments
 
@@ -624,16 +615,6 @@ Feel free to use this as a reference for your own learning!
 - Azure Architecture Center
 - Azure Community forums
 - Various online tutorials and courses
-
----
-
-## 📞 Contact
-
-For questions or discussions about this project:
-
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- Email: [Your Email]
 
 ---
 
@@ -647,10 +628,6 @@ For questions or discussions about this project:
 
 ---
 
-**⚡ Quick Start Guide**: See `/docs/quick-start.md`
 
-**🔥 Live Demo**: [Application Gateway Public IP] (Available during testing periods)
-
----
 
 _This project demonstrates real-world Azure cloud architecture skills applicable to enterprise environments._
